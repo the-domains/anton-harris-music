@@ -12,9 +12,6 @@ color:
     - '#DD403A'
 layout_spectrum: 0.07578844157978892
 name: Anton Harris Music
-navigation:
-  - name: Illustration
-    id: ed833a6b-7029-4390-aa48-2441612c84a5
-    type: content
+navigation: []
 title: ''
 description: ''
